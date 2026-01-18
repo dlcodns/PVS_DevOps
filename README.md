@@ -23,3 +23,23 @@ UI 디자인은 WonderShare의 디자인이 예뻐서 참고할 생각이고, 4�
 - 4사분면: 이슈 체크하는 로그창
 
 
+<English>
+
+## 1. Introduction
+
+It is a program with a system that monitors virtual simulations using manual vehicle sensor data and automatically resumes when the process is cut off. 
+
+### 1.1. Source of data
+Sensor data has been received by Kaggle's [Passive Vehicle Sensor - EDA]. Thank You! (To Gautam R Menon)
+
+https://www.kaggle.com/code/gautamrmenon/passive-vehicular-sensor-eda/input?select=PVS+9
+
+
+### 1.2. Design
+As for UI design, WonderShare's design is pretty, so I'm going to refer to it, and I'm going to divide it into four.
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a28fb967-bb1c-4212-85f6-869c1b2ef182" />
+
+- Quadrant 1: Manage the flow and traffic of sensor data
+- Quadrant 2: Vehicle Black Box
+- Quadrant 3: GPS maps
+- Quadrant 4: Log window to check issues
