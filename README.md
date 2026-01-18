@@ -1,7 +1,7 @@
 # PVS_DevOps
 
 
-#####Description: Passive vehicle sensor monitoring and DevOps automatic operating system
+##### Description: Passive vehicle sensor monitoring and DevOps automatic operating system
 
 ### 1. 소개
 
@@ -15,7 +15,7 @@ https://www.kaggle.com/code/gautamrmenon/passive-vehicular-sensor-eda/input?sele
 
 #### 1.2. 디자인
 UI 디자인은 WonderShare의 디자인이 예뻐서 참고할 생각이고, 4분할 할 겁니다.
-<img width="1252" height="830" alt="image" src="https://github.com/user-attachments/assets/a28fb967-bb1c-4212-85f6-869c1b2ef182" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a28fb967-bb1c-4212-85f6-869c1b2ef182" />
 
 - 1사분면: 센서 데이터의 흐름과 트래픽 관리
 - 2사분면: 차량 블랙박스
