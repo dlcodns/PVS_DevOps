@@ -22,8 +22,7 @@ UI 디자인은 WonderShare의 디자인이 예뻐서 참고할 생각이고, 4�
 - 3사분면: GPS 지도
 - 4사분면: 이슈 체크하는 로그창
 
-
-<English>
+<\n\n\n>
 
 ## 1. Introduction
 
