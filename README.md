@@ -23,6 +23,12 @@ UI 디자인은 WonderShare의 디자인이 예뻐서 참고할 생각이고, 4�
 - 4사분면: 이슈 체크하는 로그창
 
 
+#### 디자인 초안
+
+<img width="1000" alt="Desktop - 1" src="https://github.com/user-attachments/assets/acbf4526-a4fd-41d0-9729-9e1c037dfa2c" />
+<img width="1000" alt="Desktop - 2" src="https://github.com/user-attachments/assets/3d27fe52-0d9a-4657-a2f2-5054e213c24d" />
+
+
 
 
 ------
