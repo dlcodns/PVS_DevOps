@@ -25,6 +25,8 @@ UI 디자인은 WonderShare의 디자인이 예뻐서 참고할 생각이고, 4�
 
 #### 디자인 초안
 Figma로 만들었습니다. radius 그라데이션을 어떻게 개발할지 알아봐야 할 듯
+
+
 <img width="500" alt="Desktop - 1" src="https://github.com/user-attachments/assets/acbf4526-a4fd-41d0-9729-9e1c037dfa2c" />
 <img width="500" alt="Desktop - 2" src="https://github.com/user-attachments/assets/3d27fe52-0d9a-4657-a2f2-5054e213c24d" />
 
